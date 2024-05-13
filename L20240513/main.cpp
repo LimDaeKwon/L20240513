@@ -2,10 +2,10 @@
 
 int main()
 {
-	int number1, number2;
-	std::cin >> number1 >> number2;
-	std::cout << " number1 + number2 = " << number1 + number2 << std::endl;
-	std::cout << " number1 - number2 = " << number1 - number2 << std::endl;
-	std::cout << " number1 * number2 = " << number1 * number2 << std::endl;
-	std::cout << " number1 / number2 = " << number1 / number2 << std::endl;
+	int Number1, Number2;
+	std::cin >> Number1 >> Number2;
+	std::cout << " Number1 + Number2 = " << Number1 + Number2 << std::endl;
+	std::cout << " Number1 - Number2 = " << Number1 - Number2 << std::endl;
+	std::cout << " Number1 * Number2 = " << Number1 * Number2 << std::endl;
+	std::cout << " Number1 / Number2 = " << Number1 / Number2 << std::endl;
 }
